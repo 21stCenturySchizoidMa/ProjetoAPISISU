@@ -13,7 +13,8 @@ public class Menuprincipal {
         System.out.println("\nQual das opções abaixo deseja utilizar");
         System.out.println("\n1.Fazer login");
         System.out.println("2.Criar uma conta");
-        System.out.println("3.Sair");
+        System.out.println("3.calcular media");
+        System.out.println("4.Sair");
         System.out.print("\nEscolha uma das opções acima: ");
         return sc.nextLine();
     }
